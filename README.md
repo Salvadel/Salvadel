@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Salvadel
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on security-related projects
 - 📫 How to reach me Frosti#3083
