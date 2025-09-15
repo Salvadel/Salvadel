@@ -13,9 +13,15 @@
 - <b>C</b>
   - [Cessna 172 Skyhawk Computational Database](https://github.com/FlightSimMex/CS223-Final)
 
-<h2>📄 Certifications:</h2>
+<h2>📄 Certifications: </h2>
 
 - [Cisco Certified Support Technician (CCST) Cybersecurity](https://www.credly.com/badges/9ff93b08-cdff-4630-ace8-6af7b214a51b)
+
+<h2>⚔️ Practical Labs & CTFs: </h2>
+
+- [TryHackMe](https://tryhackme.com/p/Salvas)
+
+- [PicoCTF](https://play.picoctf.org/users/salvas)
 
 <h2> 🤳 Connect with me:</h2>
 
