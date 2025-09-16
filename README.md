@@ -16,6 +16,7 @@
 <h2>📄 Certifications: </h2>
 
 - [Cisco Certified Support Technician (CCST) Cybersecurity](https://www.credly.com/badges/9ff93b08-cdff-4630-ace8-6af7b214a51b)
+- [FEMA National Incident Management System (NIMS), ICS-100]()
 
 <h2>⚔️ Practical Labs & CTFs: </h2>
 
