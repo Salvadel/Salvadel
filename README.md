@@ -12,6 +12,11 @@
  
 - <b>C</b>
   - [Cessna 172 Skyhawk Computational Database](https://github.com/FlightSimMex/CS223-Final)
+ 
+<h2>📁 Other Projects</h2>
+
+- <b>TeX</b>
+  - [Cisco Stock Return Analysis](https://github.com/Salvadel/Cisco_Stock_Return_Analysis)
 
 <h2>📄 Certifications: </h2>
 
@@ -25,11 +30,6 @@
 - [PicoCTF](https://play.picoctf.org/users/salvas)
 
 - [Cisco Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/bf0d666a-6747-4589-a944-9d7fe1f419ea)
-
-<h2>📁 Other Projects</h2>
-
-- <b>TeX</b>
-  - [Cisco Stock Return Analysis](https://github.com/Salvadel/Cisco_Stock_Return_Analysis)
 
 <h2> 🤳 Connect with me:</h2>
 
