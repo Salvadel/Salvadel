@@ -2,21 +2,30 @@
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
+- <b>SIEM & SOAR</b>
+  - [SOC Homelab Environment](https://github.com/Salvadel/soc-homelab-environment)
+
 - <b>C</b>
   - [Credential Attack Simulation Tool (Brute-Force & Dictionary)](https://github.com/Salvadel/Credential_Attack_Simulation_Tool)
  
+- <b>Machine Learning</b>
+  - [Phishing Email Detector](https://github.com/Salvadel/phish-detect)
+ 
 <h2>👨‍💻 Software Development Projects</h2>
 
-- <b>Arduino</b>
-  - [RGB Controlled Mini Ground-Bot Vehicle](https://github.com/Salvadel/RGB_Controlled_Mini_Ground_Bot_Vehicle)
+- <b>Python</b>
+  - [Inventory Management App (Secure Login)](https://github.com/Salvadel/inventory-manager)
  
 - <b>C</b>
   - [Cessna 172 Skyhawk Computational Database](https://github.com/FlightSimMex/CS223-Final)
  
+- <b>Arduino</b>
+  - [RGB Controlled Mini Ground-Bot Vehicle](https://github.com/Salvadel/RGB_Controlled_Mini_Ground_Bot_Vehicle)
+ 
 <h2>📁 Other Projects</h2>
 
 - <b>TeX</b>
-  - [Cisco Stock Return Analysis](https://github.com/Salvadel/Cisco_Stock_Return_Analysis)
+  - [Statistic Stock Return Analysis](https://github.com/Salvadel/Cisco_Stock_Return_Analysis)
 
 <h2>📄 Certifications: </h2>
 
