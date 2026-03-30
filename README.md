@@ -45,3 +45,7 @@
 [<img align="left" alt="Salvadel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/Salvadel
+
+[<img align="left" alt="Salvadel | Credly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.14.0/icons/credly.svg" />][credly]
+
+[credly]: http://credly.com/users/salvatore-deluca.skl
