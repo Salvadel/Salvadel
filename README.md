@@ -26,13 +26,6 @@ Currently building hands-on security labs, offensive security tooling, and machi
  
 - <b>[RGB Controlled Mini Ground-Bot Vehicle](https://github.com/Salvadel/RGB_Controlled_Mini_Ground_Bot_Vehicle)</b>
   - Arduino-based ground vehicle with programmable RGB control, motor driver integration, and RGB sensor operation
- 
-<h2>📊 Research & Analysis</h2>
-
-- <b>[Statistic Stock Return Analysis](https://github.com/Salvadel/Cisco_Stock_Return_Analysis)</b>
-
-  - Quantitative analysis of CSCO historical returns using statistical modeling and data visualization to identify volatility trends
- 
 
 <h2>📄 Certifications: </h2>
 
