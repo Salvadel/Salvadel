@@ -7,30 +7,31 @@ Currently building hands-on security labs, offensive security tooling, and machi
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
-- <b>[SIEM & SOAR Automation SOC Homelab](https://github.com/Salvadel/soc-homelab-environment)</b>
-  - Built a SOC homelab environment for centralized logging, threat detection, and incident response workflows
+- <b>[SOC Homelab - SIEM/SOAR PIpeline with Automated Threat Response](https://github.com/Salvadel/soc-homelab-environment)</b>
+  - Wazuh, Shuffle, and TheHive homelab for threat detection and case management. IOC enrichment via VirusTotal, AbuseIPDB, Slack
   
-- <b>[Password Auditing & Brute-Force Simulation Tool](https://github.com/Salvadel/Credential_Attack_Simulation_Tool)</b>
-  - Developed a credential auditing tool in C capable of dictionary and brute-force attack simulations for authentication testing
+- <b>[Credentiual Attack Simulation & Password Auditing Tool](https://github.com/Salvadel/Credential_Attack_Simulation_Tool)</b>
+  - C-based tool simulating dictionary and brute-force attacks to evaluate authentication vulnerability and password policy strength
  
-- <b>[Phishing Email Detecter](https://github.com/Salvadel/phish-detect)</b>
-  - Machine learning-based phishing detection system trained to classify malicious and legitimate emails
+- <b>[ML-Based Phishing Email Detection System](https://github.com/Salvadel/phish-detect)</b>
+  - Machine learning classifier trained to distinguish malicious from legitimate emails using keywords and linguistic analysis
  
 <h2>👨‍💻 Software Development Projects</h2>
 
 - <b>[Inventory Management App](https://github.com/Salvadel/inventory-manager)</b>
-  - Developed a Python-based inventory management application with user authentication and secure login functionality
+  - Layered-architecture Python app with role-based authentication, vendor/category management, built using Agile/Scrum
  
 - <b>[Cessna 172 Skyhawk Computational Database](https://github.com/FlightSimMex/CS223-Final)</b>
-  - Created a computational database system for storing and analyzing Cessna 172 aircraft performance and operational data
+  - Relational database system for storing and querying Cessna 172 flight performance and operational data
  
 - <b>[RGB Controlled Mini Ground-Bot Vehicle](https://github.com/Salvadel/RGB_Controlled_Mini_Ground_Bot_Vehicle)</b>
-  - Built an Arduino-powered robotic ground vehicle with programmable RGB lighting and remote-control functionality
+  - Arduino-based ground vehicle with programmable RGB control, motor driver integration, and RGB sensor operation
  
 <h2>📊 Research & Analysis</h2>
 
 - <b>[Statistic Stock Return Analysis](https://github.com/Salvadel/Cisco_Stock_Return_Analysis)</b>
-  - Conducted a statistical analysis of Cisco stock returns using mathematical modeling and data visualization techniques.
+
+  - Quantitative analysis of CSCO historical returns using statistical modeling and data visualization to identify volatility trends
  
 
 <h2>📄 Certifications: </h2>
