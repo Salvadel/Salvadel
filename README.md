@@ -8,7 +8,7 @@ Currently building hands-on security labs, offensive security tooling, and machi
 <h2>🔒 Cybersecurity Projects:</h2>
 
 - <b>[SOC Homelab - SIEM/SOAR PIpeline with Automated Threat Response](https://github.com/Salvadel/soc-homelab-environment)</b>
-  - Wazuh, Shuffle, and TheHive homelab for threat detection and case management. IOC enrichment via VirusTotal, AbuseIPDB, Slack
+  - Wazuh, Shuffle, and TheHive homelab for threat detection and case creation. IOC enrichment via VirusTotal, AbuseIPDB, Slack
   
 - <b>[Credentiual Attack Simulation & Password Auditing Tool](https://github.com/Salvadel/Credential_Attack_Simulation_Tool)</b>
   - C-based tool simulating dictionary and brute-force attacks to evaluate authentication vulnerability and password policy strength
