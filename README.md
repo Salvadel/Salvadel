@@ -29,7 +29,9 @@ Currently building hands-on security labs, offensive security tooling, and machi
 
 <h2>📄 Certifications: </h2>
 
-- [Cisco Certified Support Technician (CCST) Cybersecurity](https://www.credly.com/badges/9ff93b08-cdff-4630-ace8-6af7b214a51b)
+- [CompTIA Security + (SEC+)](https://www.credly.com/badges/765a27b9-de63-424f-91cc-472033fc1897/public_url)
+
+- [Cisco Certified Support Technician (CCST) Cybersecurity](https://www.credly.com/badges/9ff93b08-cdff-4630-ace8-6af7b214a51b/public_url)
   
 - [FEMA National Incident Management System (NIMS), ICS-100](https://www.linkedin.com/feed/update/urn:li:activity:7373754710971035648)
 
