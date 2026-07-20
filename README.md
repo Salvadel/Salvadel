@@ -8,7 +8,7 @@ Currently building hands-on security labs, offensive security tooling, and machi
 <h2>🔒 Cybersecurity Projects:</h2>
 
 - <b>[SOC Homelab](https://github.com/Salvadel/soc-homelab-environment)</b>
-  - Homelab built on Wazuh, Kali Linux, and Windows Clients to simulate a real corporate environment, containing numerous hands-on projects
+  - Homelab built on Wazuh, Kali Linux, and Windows Clients to simulate a corporate environment, containing numerous hands-on projects
   
 - <b>[Credentiual Attack Simulation & Password Auditing Tool](https://github.com/Salvadel/Credential_Attack_Simulation_Tool)</b>
   - C-based tool simulating dictionary and brute-force attacks to evaluate authentication vulnerability and password policy strength
