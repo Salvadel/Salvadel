@@ -8,7 +8,7 @@ Currently building hands-on security labs, offensive security tooling, and machi
 <h2>🔒 Cybersecurity Projects:</h2>
 
 - <b>[SOC Homelab](https://github.com/Salvadel/soc-homelab-environment)</b>
-  - Homelab built on Wazuh, Kali Linux, and Windows Clients to simulate a corporate environment, containing numerous hands-on projects
+  - Homelab built on Wazuh, Kali Linux, and Windows 11 simulating a corporate environment, containing numerous hands-on projects
   
 - <b>[Credentiual Attack Simulation & Password Auditing Tool](https://github.com/Salvadel/Credential_Attack_Simulation_Tool)</b>
   - C-based tool simulating dictionary and brute-force attacks to evaluate authentication vulnerability and password policy strength
@@ -19,7 +19,7 @@ Currently building hands-on security labs, offensive security tooling, and machi
 <h2>👨‍💻 Software Development Projects</h2>
 
 - <b>[Inventory Management App](https://github.com/Salvadel/inventory-manager)</b>
-  - Inventory management app built with Python, including role-based authentication and vendor/category management, built using Agile/Scrum
+  - Inventory management app built with Python, including secure authentication, vendor/category management, built using Agile/Scrum
  
 - <b>[Cessna 172 Skyhawk Computational Database](https://github.com/FlightSimMex/CS223-Final)</b>
   - Relational database system for storing and querying Cessna 172 flight performance and operational data
