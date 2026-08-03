@@ -43,8 +43,6 @@ Currently building hands-on security labs, offensive security tooling, and machi
 - [TryHackMe](https://tryhackme.com/p/Salvas)
 
 - [PicoCTF](https://play.picoctf.org/users/salvas)
-  
-- [Cisco Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/bf0d666a-6747-4589-a944-9d7fe1f419ea)
 
 <h2> 🤳 Connect with me:</h2>
 
