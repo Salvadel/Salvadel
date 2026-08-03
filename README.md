@@ -9,6 +9,9 @@ Currently building hands-on security labs, offensive security tooling, and machi
 
 - <b>[SOC Homelab](https://github.com/Salvadel/soc-homelab-environment)</b>
   - Homelab built on Wazuh, Kali Linux, and Windows 11 simulating a corporate environment, containing numerous hands-on projects
+  - Projects Include:
+    - [SOAR Automation](https://github.com/Salvadel/soc-homelab-environment/blob/main/projects/soar-automation/README.md)
+    - [AWS Cloud Integration](https://github.com/Salvadel/soc-homelab-environment/blob/main/projects/aws-cloud-integration/README.md)
   
 - <b>[Credentiual Attack Simulation & Password Auditing Tool](https://github.com/Salvadel/Credential_Attack_Simulation_Tool)</b>
   - C-based tool simulating dictionary and brute-force attacks to evaluate authentication vulnerability and password policy strength
@@ -19,7 +22,7 @@ Currently building hands-on security labs, offensive security tooling, and machi
 <h2>👨‍💻 Software Development Projects</h2>
 
 - <b>[Inventory Management App](https://github.com/Salvadel/inventory-manager)</b>
-  - Inventory management app built with Python, including secure authentication, vendor/category management, built using Agile/Scrum
+  - Inventory management app built with Python, including secure authentication and vendor/category management, built using Agile/Scrum
  
 - <b>[Cessna 172 Skyhawk Computational Database](https://github.com/FlightSimMex/CS223-Final)</b>
   - Relational database system for storing and querying Cessna 172 flight performance and operational data
@@ -31,9 +34,9 @@ Currently building hands-on security labs, offensive security tooling, and machi
 
 - [CompTIA Security + (SEC+)](https://www.credly.com/badges/765a27b9-de63-424f-91cc-472033fc1897/public_url)
 
+- [CSA Certificate of Cloud Security Knowledge (CCSK)](https://www.credly.com/badges/6d0735bb-f96e-4f89-b61f-c2bce8f89e5c/public_url)
+
 - [Cisco Certified Support Technician (CCST) Cybersecurity](https://www.credly.com/badges/9ff93b08-cdff-4630-ace8-6af7b214a51b/public_url)
-  
-- [FEMA National Incident Management System (NIMS), ICS-100](https://www.linkedin.com/feed/update/urn:li:activity:7373754710971035648)
 
 <h2>⚔️ Practical Labs & CTFs: </h2>
 
