@@ -9,9 +9,9 @@ Currently building hands-on security labs, offensive security tooling, and machi
 
 - <b>[SOC Homelab](https://github.com/Salvadel/soc-homelab-environment)</b>
   - Homelab built on Wazuh, Kali Linux, and Windows 11 simulating a corporate environment, containing numerous hands-on projects
-  - Projects Include:
-    - [SOAR Automation](https://github.com/Salvadel/soc-homelab-environment/blob/main/projects/soar-automation/README.md)
-    - [AWS Cloud Integration](https://github.com/Salvadel/soc-homelab-environment/blob/main/projects/aws-cloud-integration/README.md)
+  - **Projects Include:**
+    - [SOAR Automation](https://github.com/Salvadel/soc-homelab-environment/blob/main/projects/soar-automation/README.md) - Automate Wazuh alerts using Shuffle: enriches with threat intel, creates TheHive cases, notifies via Slack
+    - [AWS Cloud Integration](https://github.com/Salvadel/soc-homelab-environment/blob/main/projects/aws-cloud-integration/README.md) - Monitor a cloud AWS EC2 instance via Wazuh SIEM over an encrypted WireGuard VPN tunnel
   
 - <b>[Credentiual Attack Simulation & Password Auditing Tool](https://github.com/Salvadel/Credential_Attack_Simulation_Tool)</b>
   - C-based tool simulating dictionary and brute-force attacks to evaluate authentication vulnerability and password policy strength
