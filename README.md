@@ -11,7 +11,7 @@ Currently building hands-on security labs, offensive security tooling, and machi
   - **Projects Include:**
     - [SOAR Automation](https://github.com/Salvadel/soc-homelab-environment/blob/main/projects/soar-automation/README.md) - Automates Wazuh alerts using Shuffle: enriches with threat intel, creates TheHive cases, notifies via Slack
     - [AWS Cloud Integration](https://github.com/Salvadel/soc-homelab-environment/blob/main/projects/aws-cloud-integration/README.md) - Monitors a cloud AWS EC2 instance via Wazuh SIEM over an encrypted WireGuard VPN tunnel
-    - [Wazuh Investigations](projects/wazuh-investigations/) - A series of Kali attack simulations against a Windows 11 lab host, investigated in Wazuh SIEM, documented, and mapped to MITRE ATT&CK techniques.
+    - [Wazuh Investigations](projects/wazuh-investigations/) - Kali attack simulations against Windows 11, investigated in Wazuh and mapped to MITRE ATT&CK.
 
 - <b>[Credential Attack Simulation & Password Auditing Tool](https://github.com/Salvadel/Credential_Attack_Simulation_Tool)</b>
   - C-based tool simulating dictionary and brute-force attacks to evaluate authentication vulnerability and password policy strength
