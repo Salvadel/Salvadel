@@ -39,7 +39,7 @@ Currently building hands-on security labs, offensive security tooling, and machi
 <h2>⚔️ Practical Labs & CTFs: </h2>
 
 - [TryHackMe](https://tryhackme.com/p/Salvas)
-- [PicoCTF](https://play.picoctf.org/users/salvas)
+- [PicoCTF]([https://play.picoctf.org/users/salvas](https://learn.cylabacademy.org/profile))
 
 <h2> 🤳 Connect with me:</h2>
 
